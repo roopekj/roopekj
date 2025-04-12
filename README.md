@@ -1,16 +1,13 @@
-## Hi there 👋
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-<!--
-**roopekj/roopekj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mDMEZxVVRxYJKwYBBAHaRw8BAQdAm1whdlZSkwb4HuXDcW2+CPlHA32sO9aDAACR
+eHiY3zC0B3Jvb3Bla2qIkwQTFgoAOxYhBNTDWAwIZNwveMEVnD6g92y6Yj5WBQJn
+FVVHAhsDBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJED6g92y6Yj5WKYYA
+/0A17A9pJz0VHsoWvulJCr58uBSgEBLXkBmqyfh9yXtQAQCnzcg6n+BBDpV2oqeN
+wuLwbEjDkvwAm8CWYd8atv91A7g4BGcVVUcSCisGAQQBl1UBBQEBB0Cfj9zahjjh
+zYzO53eK8MNf1MRQkWj7ib7Esw7i3MgiVAMBCAeIeAQYFgoAIBYhBNTDWAwIZNwv
+eMEVnD6g92y6Yj5WBQJnFVVHAhsMAAoJED6g92y6Yj5WxygA/i8HLvOud756rZmN
+aGkYY3Jmh5NUw6d8tMYfIlY9962OAP4uaTskg2dw4XN0pf0Kq5JwhVAXHwPRT1bm
+0OcSQEG4Cw==
+=pCCT
+-----END PGP PUBLIC KEY BLOCK-----
